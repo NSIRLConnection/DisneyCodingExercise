@@ -1,0 +1,3141 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2023 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2023 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2023 MARVEL</a>",
+  "etag": "b2534fc6a031c5a9a32735a83fe1db92581c87bd",
+  "data": {
+    "offset": 0,
+    "limit": 20,
+    "total": 53,
+    "count": 20,
+    "results": [
+      {
+        "id": 103120,
+        "digitalId": 62364,
+        "title": "Who Is...? M.O.D.O.K. Infinity Comic (2023) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2023-02-13T01:17:35-0500",
+        "isbn": "",
+        "upc": "75960620274401311",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 4,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Leader of A.I.M., foe of the Avengers—these are but a fraction of the identifiers that correlate to the Mental Organism Designed Only For Killing. Get ready for re-programming as you submit the query: WHO IS M.O.D.O.K.?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/103120",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/103120/who_is._modok_infinity_comic_2023_1?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=62364&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/35554",
+          "name": "Who Is...? M.O.D.O.K. Infinity Comic (2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2023-02-17T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2023-01-16T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-02-17T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/63bd9786689b9",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/00/63bd9786689b9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103120/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12313",
+              "name": "Mark Basso",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14120",
+              "name": "Jordan Blum",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13280",
+              "name": "Damian Couceiro",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12991",
+              "name": "Rachelle Rosenberg",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103120/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010726",
+              "name": "M.O.D.O.K."
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103120/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227343",
+              "name": "cover from Who Is…? M.O.D.O.K. Infinity Comic (2023) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227344",
+              "name": "story from Who Is…? M.O.D.O.K. Infinity Comic (2023) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103120/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 103371,
+        "digitalId": 61136,
+        "title": "Avengers Unlimited Infinity Comic (2022) #17",
+        "issueNumber": 17,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2022-10-21T13:23:03-0400",
+        "isbn": "",
+        "upc": "75960620473101711",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 6,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "\"Sabotage\" Part One: While exploring making an investment in Project: P.E.G.A.S.U.S., Tony Stark is separated from his armor when A.I.M. attacks the installation!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/103371",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/103371/avengers_unlimited_infinity_comic_2022_17?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=61136&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/35600",
+          "name": "Avengers Unlimited Infinity Comic (2022 - 2023)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2022-10-25T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2022-09-26T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2022-10-25T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/631f5ddd865fe",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/d/00/631f5ddd865fe",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103371/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14464",
+              "name": "Jeremy Adams",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/656",
+              "name": "Dante Bastianoni",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8775",
+              "name": "Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13449",
+              "name": "Chris Sotomayor",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103371/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103371/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227845",
+              "name": "cover from Avengers Unlimited Infinity Comic (2022) #17",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/227846",
+              "name": "story from Avengers Unlimited Infinity Comic (2022) #17",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/103371/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 92308,
+        "digitalId": 57136,
+        "title": "X-Men Unlimited Infinity Comic (2021) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Wolverine takes A.I.M. to save a missing mutant! The Infinity Comics adventure by Jonathan Hickman and Declan Shalvey continues!",
+        "modified": "2021-09-07T17:11:07-0400",
+        "isbn": "",
+        "upc": "75960620046700211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 12,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Wolverine takes A.I.M. to save a missing mutant! The Infinity Comics adventure by Jonathan Hickman and Declan Shalvey continues!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/92308",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/92308/x-men_unlimited_infinity_comic_2021_2?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Unlimited-Infinity-Comic-2/digital-comic/57136?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57136&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/31573",
+          "name": "X-Men Unlimited Infinity Comic (2021 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-09-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-08-09T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-09-02T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2023-07-14T10:42:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/611e6f42d0681",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/30/611e6f42d0681",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92308/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+              "name": "Jonathan Hickman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+              "name": "Declan Shalvey",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan D. White",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92308/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92308/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/205700",
+              "name": "cover from X-Men Vertical Comic (2021) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/205701",
+              "name": "story from X-Men Vertical Comic (2021) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92308/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 92307,
+        "digitalId": 57481,
+        "title": "X-Men Unlimited Infinity Comic (2021) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "The mutants of earth have risen up and founded the nation of Krakoa… but that has not meant any less trouble for them. An all-star cast of creators bring you rotating adventures of the various mutants of the world and their friends and allies!",
+        "modified": "2021-09-07T17:10:39-0400",
+        "isbn": "",
+        "upc": "75960620046700111",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Digital Vertical Comic",
+        "pageCount": 12,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The mutants of earth have risen up and founded the nation of Krakoa… but that has not meant any less trouble for them. An all-star cast of creators bring you rotating adventures of the various mutants of the world and their friends and allies!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/92307",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/92307/x-men_unlimited_infinity_comic_2021_1?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/X-Men-Unlimited-Infinity-Comic-1/digital-comic/57481?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=57481&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/31573",
+          "name": "X-Men Unlimited Infinity Comic (2021 - Present)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2021-09-02T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2021-08-09T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2021-09-02T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2023-07-14T10:42:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/611e6f42d016f",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/10/611e6f42d016f",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92307/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11743",
+              "name": "Jonathan Hickman",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12974",
+              "name": "Vc Joe Sabino",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11354",
+              "name": "Declan Shalvey",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan D. White",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92307/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92307/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/205698",
+              "name": "cover from X-Men Vertical Comic (2021) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/205699",
+              "name": "story from X-Men Vertical Comic (2021) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/92307/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65941,
+        "digitalId": 47132,
+        "title": "Iron Man Epic Collection: Doom (Trade Paperback)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "Collects Iron Man (1968) #245-257, Annual #10-11 and material from Captain America Annual #9. Iron Man and Doctor Doom face off in the future! The armored foes renew their rivalry in a future version of Camelot, where they must join a reborn Arthur and Merlin in battle against some very familiar faces! Then, Loki cultivates chaos as his Acts of Vengeance pit shell-head against the Wrecker and Chemistro! Inside the armor, Tony Stark continues to come to terms with his paralysis, and the Maggia makes its move — but what is its involvement with Hydra and A.I.M.? Plus: Iron Man and Crimson Dynamo see the world through each other’s eyes! Tony defends the surface when Atlantis attacks! Iron Man and Captain America join forces to deal with the return of Terminus! And don’t forget the Dreadnoughts, Madame Masque, the Hulk and…Santa Claus?!",
+        "modified": "2018-01-18T18:43:01-0500",
+        "isbn": "978-1-302-91013-6",
+        "upc": "",
+        "diamondCode": "NOV171079",
+        "ean": "9781302 910136 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 472,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Collects Iron Man (1968) #245-257, Annual #10-11 and material from Captain America Annual #9. Iron Man and Doctor Doom face off in the future! The armored foes renew their rivalry in a future version of Camelot, where they must join a reborn Arthur and Merlin in battle against some very familiar faces! Then, Loki cultivates chaos as his Acts of Vengeance pit shell-head against the Wrecker and Chemistro! Inside the armor, Tony Stark continues to come to terms with his paralysis, and the Maggia makes its move — but what is its involvement with Hydra and A.I.M.? Plus: Iron Man and Crimson Dynamo see the world through each other’s eyes! Tony defends the surface when Atlantis attacks! Iron Man and Captain America join forces to deal with the return of Terminus! And don’t forget the Dreadnoughts, Madame Masque, the Hulk and…Santa Claus?!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65941",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/65941/iron_man_epic_collection_doom_trade_paperback?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=47132&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23915",
+          "name": "Iron Man Epic Collection: Doom (2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2018-01-24T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-12-04T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-04-28T17:18:23-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5a612c90dfdb5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/10/5a612c90dfdb5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 15,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65941/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/270",
+              "name": "Gene Colan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1901",
+              "name": "Tom Morgan",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13196",
+              "name": "John Romita Jr.",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/431",
+              "name": "Paul Smith",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/199",
+              "name": "Herb Trimpe",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1333",
+              "name": "Jim Valentino",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2384",
+              "name": "Rich Yanizeski",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/6049",
+              "name": "Danny Fingeroth",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2652",
+              "name": "Randall Frenz",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/392",
+              "name": "Dwayne Mcduffie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2784",
+              "name": "David Michelinie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2706",
+              "name": "Dann Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2909",
+              "name": "Roy Thomas",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1247",
+              "name": "Bob Layton",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 15
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65941/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009251",
+              "name": "Crimson Dynamo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+              "name": "Hydra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010884",
+              "name": "Wrecker"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65941/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143002",
+              "name": "cover from IRON MAN EPIC COLLECTION: DOOM TPB (2018) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/143003",
+              "name": "story from IRON MAN EPIC COLLECTION: DOOM TPB (2018) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65941/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65466,
+        "digitalId": 0,
+        "title": "Captain America by Mark Waid, Ron Garney & Andy Kubert (Hardcover)",
+        "issueNumber": 0,
+        "variantDescription": "",
+        "description": "One of the most celebrated runs in Captain America history - collected in full! The world believes Cap dead, but his life is saved by his greatest love - and his deadliest enemy! Will America celebrate his return, or will he become a man without a country? After facing Onslaught, Cap will find himself reborn once more - only to lose his shield! But there's no slowing down for the Sentinel of Liberty as Cap takes on Hydra, Skrulls, A.I.M. and more; unites with Iron Man against M.O.D.O.K.; and battles Korvac and the Red Skull for the fate of the future! Plus: Tales from World War II and more - from all eras of the Sentinel of Liberty's star-studded history! Collecting CAPTAIN AMERICA (1968) #444-454, CAPTAIN AMERICA (1998) #1-23, IRON MAN/CAPTAIN AMERICA ANNUAL '98, CAPTAIN AMERICA: SENTINEL OF LIBERTY #1-12 and ROUGH CUT, and material from CAPTAIN AMERICA: THE LEGEND and CAPTAIN AMERICA: RED, WHITE & BLUE.",
+        "modified": "2017-12-01T15:00:12-0500",
+        "isbn": "978-1-302-90831-7",
+        "upc": "",
+        "diamondCode": "JUN171040",
+        "ean": "9781302 908317 59999",
+        "issn": "",
+        "format": "Hardcover",
+        "pageCount": 1328,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "One of the most celebrated runs in Captain America history - collected in full! The world believes Cap dead, but his life is saved by his greatest love - and his deadliest enemy! Will America celebrate his return, or will he become a man without a country? After facing Onslaught, Cap will find himself reborn once more - only to lose his shield! But there's no slowing down for the Sentinel of Liberty as Cap takes on Hydra, Skrulls, A.I.M. and more; unites with Iron Man against M.O.D.O.K.; and battles Korvac and the Red Skull for the fate of the future! Plus: Tales from World War II and more - from all eras of the Sentinel of Liberty's star-studded history! Collecting CAPTAIN AMERICA (1968) #444-454, CAPTAIN AMERICA (1998) #1-23, IRON MAN/CAPTAIN AMERICA ANNUAL '98, CAPTAIN AMERICA: SENTINEL OF LIBERTY #1-12 and ROUGH CUT, and material from CAPTAIN AMERICA: THE LEGEND and CAPTAIN AMERICA: RED, WHITE & BLUE."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65466",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/65466/captain_america_by_mark_waid_ron_garney_andy_kubert_hardcover?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23810",
+          "name": "Captain America by Mark Waid, Ron Garney & Andy Kubert (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-12-06T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-08-07T00:00:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 125
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/5a21c1a2471bf",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/50/5a21c1a2471bf",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65466/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10581",
+              "name": "Vero Gandini",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/120",
+              "name": "Ron Garney",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/175",
+              "name": "Andy Kubert",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 10,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65466/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+              "name": "Hydra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011312",
+              "name": "Korvac"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010726",
+              "name": "M.O.D.O.K."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009483",
+              "name": "Onslaught"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009535",
+              "name": "Red Skull"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009228",
+              "name": "Sharon Carter"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009599",
+              "name": "Skrulls"
+            }
+          ],
+          "returned": 10
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65466/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/142052",
+              "name": "cover from CAPTAIN AMERICA BY MARK WAID, RON GARNEY & ANDY KUBERT OMNIBUS HC (2017) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/142053",
+              "name": "story from CAPTAIN AMERICA BY MARK WAID, RON GARNEY & ANDY KUBERT OMNIBUS HC (2017) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65466/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 65357,
+        "digitalId": 0,
+        "title": "Marvel Universe Avengers: Ultron Revolution (2017) #2",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "The Scientist Supreme unveils the latest deadly creation from A.I.M., Advanced Idea Mechanics!",
+        "modified": "2017-10-06T10:38:18-0400",
+        "isbn": "",
+        "upc": "75960608938300211",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 1,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Scientist Supreme unveils the latest deadly creation from A.I.M., Advanced Idea Mechanics!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/65357",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/65357/marvel_universe_avengers_ultron_revolution_2017_2?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23793",
+          "name": "Marvel Universe Avengers: Ultron Revolution (2017 - 2018)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-10-17T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/59d2acf17c923",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/80/59d2acf17c923",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65357/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11401",
+              "name": "Various",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65357/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009685",
+              "name": "Ultron"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65357/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141832",
+              "name": "cover from Marvel Universe Avengers: Ultron Revolution (Digital Comic) (2017) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/141833",
+              "name": "story from Marvel Universe Avengers: Ultron Revolution (Digital Comic) (2017) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/65357/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 64790,
+        "digitalId": 51568,
+        "title": "AVENGERS BY BRIAN MICHAEL BENDIS: THE COMPLETE COLLECTION VOL. 2 TPB (Trade Paperback)",
+        "issueNumber": 2,
+        "variantDescription": "",
+        "description": "Collects Avengers (2010) #12.1 And #13-24 and Avengers Assemble: An Oral History Of Earth's Mightiest Heroes.  Brian Michael Bendis' Avengers odyssey continues! When Spider-Woman disappears, the team must face the Intelligencia - just before FEAR ITSELF hammers our heroes! The Red Skull's daughter has unleashed an evil as old as Midgard itself. The Serpent has risen to reclaim Earth, recruiting powerful superhumans as his advance guard, the Worthy. The result is all-out action in the classic Avengers style! And when the dust settles, Tony Stark's fortune is gone, Captain America's leadership is questioned and Thor is no more! Worse still, Norman Osborn is back! Freed from prison by his H.A.M.M.E.R. loyalists, Osborn unites with A.I.M., Superia and Madame Hydra, seeking revenge in the worst way possible. Plus: Bendis literally writes the book on the glorious history of Earth's Mightiest Heroes!",
+        "modified": "2023-08-25T11:09:35-0400",
+        "isbn": "978-1-302-90774-7",
+        "upc": "",
+        "diamondCode": "JUL171229",
+        "ean": "9781302 907747 53999",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 480,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Brian Michael Bendis' Avengers odyssey continues! When Spider-Woman disappears, the team must face the Intelligencia - just before Fear Itself hammers our heroes! The Red Skull's daughter has unleashed an evil as old as Midgard itself. The Serpent has risen to reclaim Earth, recruiting powerful superhumans as his advance guard, the Worthy. The result is all-out action in classic Avengers style! And when the dust settles, Tony Stark's fortune is gone, Captain America's leadership is questioned and Thor is no more! Worse still, Norman Osborn is back! Freed from prison by his H.A.M.M.E.R. loyalists, Osborn unites with A.I.M., Superia and Madame Hydra, seeking revenge in the worst way possible. Plus: Bendis literally writes the book on the glorious history of Earth's Mightiest Heroes! COLLECTING: AVENGERS (2010) #12.1, #13-24; AVENGERS ASSEMBLE: AN ORAL HISTORY OF EARTH'S MIGHTIEST HEROES."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/64790",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/64790/avengers_by_brian_michael_bendis_the_complete_collection_vol_2_tpb_trade_paperback?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/AVENGERS-BY-BRIAN-MICHAEL-BENDIS-THE-COMPLETE-COLLECTION-VOL-2-TPB-2/digital-comic/51568?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=51568&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/27689",
+          "name": "AVENGERS BY BRIAN MICHAEL BENDIS: THE COMPLETE COLLECTION VOL. 2 TPB (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-10-11T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2017-08-21T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-07-26T11:39:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2023-07-26T11:39:00-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 39.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/59d7bb5d029cb",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/70/59d7bb5d029cb",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64790/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/1004",
+              "name": "Daniel Acuna",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/232",
+              "name": "Chris Bachalo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/339",
+              "name": "Bryan Hitch",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/24",
+              "name": "Brian Michael Bendis",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13196",
+              "name": "John Romita Jr.",
+              "role": "penciler"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+              "name": "Dean White",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64790/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009412",
+              "name": "Madame Hydra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009325",
+              "name": "Norman Osborn"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010898",
+              "name": "Sin"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 8
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64790/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140629",
+              "name": "cover from AVENGERS BY BRIAN MICHAEL BENDIS: THE COMPLETE COLLECTION VOL. 2 TPB (2017) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/140630",
+              "name": "story from AVENGERS BY BRIAN MICHAEL BENDIS: THE COMPLETE COLLECTION VOL. 2 TPB (2017) #2",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/64790/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 63220,
+        "digitalId": 0,
+        "title": "Avengers and Power Pack (2017) #6",
+        "issueNumber": 6,
+        "variantDescription": "",
+        "description": "Will Power Pack's dreams of becoming the hottest new heroes on the scene be squashed by one of the greatest Avengers villains of all time?",
+        "modified": "2017-09-06T17:34:36-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 12,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Will Power Pack's dreams of becoming the hottest new heroes on the scene be squashed by one of the greatest Avengers villains of all time?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/63220",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/63220/avengers_and_power_pack_2017_6?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23123",
+          "name": "Avengers and Power Pack (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-09-12T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/59b068e5c98d8",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/90/59b068e5c98d8",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63220/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13511",
+              "name": "Nate Cosby",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14063",
+              "name": "G Gurihiru",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+              "name": "Marc Sumerak",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63220/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+              "name": "Kang"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+              "name": "Power Pack"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63220/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137278",
+              "name": "cover from Avengers and Power Pack Infinite Comic (2017) #6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137279",
+              "name": "story from Avengers and Power Pack Infinite Comic (2017) #6",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63220/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 63219,
+        "digitalId": 0,
+        "title": "Avengers and Power Pack (2017) #5",
+        "issueNumber": 5,
+        "variantDescription": "",
+        "description": "The Powers are on their way to the Big Apple...and our favorite sibling super heroes are ready to join the big leagues!",
+        "modified": "2017-08-23T11:37:45-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 12,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The Powers are on their way to the Big Apple...and our favorite sibling super heroes are ready to join the big leagues!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/63219",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/63219/avengers_and_power_pack_2017_5?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23123",
+          "name": "Avengers and Power Pack (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-09-05T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/599da020b7c0b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/8/d0/599da020b7c0b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63219/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13511",
+              "name": "Nate Cosby",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14063",
+              "name": "G Gurihiru",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+              "name": "Marc Sumerak",
+              "role": "writer"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63219/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+              "name": "Kang"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+              "name": "Power Pack"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63219/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137276",
+              "name": "cover from Avengers and Power Pack Infinite Comic (2017) #5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137277",
+              "name": "story from Avengers and Power Pack Infinite Comic (2017) #5",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63219/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 63218,
+        "digitalId": 0,
+        "title": "Avengers and Power Pack (2017) #4",
+        "issueNumber": 4,
+        "variantDescription": "",
+        "description": "Is Jack Power really looking to save the day or is he just hoping for a hefty reward?",
+        "modified": "2017-08-18T16:30:43-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 12,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Is Jack Power really looking to save the day or is he just hoping for a hefty reward?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/63218",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/63218/avengers_and_power_pack_2017_4?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23123",
+          "name": "Avengers and Power Pack (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-08-29T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/59974dc49df93",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/d0/59974dc49df93",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63218/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4421",
+              "name": "MacKenzie Cadenhead",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13511",
+              "name": "Nate Cosby",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14063",
+              "name": "G Gurihiru",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+              "name": "Marc Sumerak",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63218/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+              "name": "Kang"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+              "name": "Power Pack"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63218/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137274",
+              "name": "cover from Avengers and Power Pack Infinite Comic (2017) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137275",
+              "name": "story from Avengers and Power Pack Infinite Comic (2017) #4",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63218/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 63217,
+        "digitalId": 0,
+        "title": "Avengers and Power Pack (2017) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "When one of billionaire Tony Stark's greatest inventions is stolen, it's up to the invincible Iron Man to track it down...unless, of course, Power Pack beats him to the punch!",
+        "modified": "2017-08-18T16:25:06-0400",
+        "isbn": "",
+        "upc": "",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "",
+        "format": "Infinite Comic",
+        "pageCount": 12,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "When one of billionaire Tony Stark's greatest inventions is stolen, it's up to the invincible Iron Man to track it down...unless, of course, Power Pack beats him to the punch!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/63217",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/63217/avengers_and_power_pack_2017_3?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/23123",
+          "name": "Avengers and Power Pack (2017)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2017-08-22T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "-0001-11-30T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 0
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/59974bd6b7f59",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/c0/59974bd6b7f59",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63217/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4421",
+              "name": "MacKenzie Cadenhead",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13511",
+              "name": "Nate Cosby",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/14063",
+              "name": "G Gurihiru",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8429",
+              "name": "Dave Sharpe",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/718",
+              "name": "Marc Sumerak",
+              "role": "writer"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63217/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009384",
+              "name": "Kang"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010770",
+              "name": "Power Pack"
+            }
+          ],
+          "returned": 5
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63217/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137272",
+              "name": "cover from Avengers and Power Pack Infinite Comic (2017) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/137273",
+              "name": "story from Avengers and Power Pack Infinite Comic (2017) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/63217/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48818,
+        "digitalId": 33039,
+        "title": "Secret Avengers (2013) #16",
+        "issueNumber": 16,
+        "variantDescription": "",
+        "description": "HOW TO MA.I.M. A MOCKINGBIRD CONCLUSION!\r\n\r\n\r\n\r\n\r\n<ul><li>Maria Hill strikes a deal with...A.I.M.???</li><li>Some are dead. Some are alive. Some are in between. And some quit.</li><li>The Secret Avengers will never be the same.</li></ul>",
+        "modified": "2014-02-24T15:38:01-0500",
+        "isbn": "",
+        "upc": "75960607911701611",
+        "diamondCode": "DEC130725",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "HOW TO MA.I.M. A MOCKINGBIRD CONCLUSION!\r\n\r\n\r\n\r\n\r\n<ul><li>Maria Hill strikes a deal with...A.I.M.???</li><li>Some are dead. Some are alive. Some are in between. And some quit.</li><li>The Secret Avengers will never be the same.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48818",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48818/secret_avengers_2013_16?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-16/digital-comic/33039?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=33039&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/33039?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17547",
+          "name": "Secret Avengers (2013 - 2014)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-02-26T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-02-12T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-08-25T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-02-26T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/a0/579b65f99cde3",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/a/a0/579b65f99cde3",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/52866198bda00",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48818/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+              "name": "Butch Guice",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+              "name": "Luke Ross",
+              "role": "artist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48818/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011220",
+              "name": "Mockingbird"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+              "name": "S.H.I.E.L.D."
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48818/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109727",
+              "name": "cover from Secret Avengers (2013) #16",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109728",
+              "name": "story from Secret Avengers (2013) #16",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48818/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48817,
+        "digitalId": 33017,
+        "title": "Secret Avengers (2013) #15",
+        "issueNumber": 15,
+        "variantDescription": "",
+        "description": "HOW TO MA.I.M. A MOCKINGBIRD, Part Four\r\n\r\n\r\n\r\n\r\n\r\n<ul><li>Secret Avengers X the A.I.M. island = Blood, sweat, punches and broken bones.</li><li>Events that began in #1 move to their conclusion.</li><li>A Secret Avenger dies.</li></ul>",
+        "modified": "2014-02-07T15:25:17-0500",
+        "isbn": "",
+        "upc": "75960607911701511",
+        "diamondCode": "DEC130724",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "HOW TO MA.I.M. A MOCKINGBIRD, Part Four\r\n\r\n\r\n\r\n\r\n\r\n<ul><li>Secret Avengers X the A.I.M. island = Blood, sweat, punches and broken bones.</li><li>Events that began in #1 move to their conclusion.</li><li>A Secret Avenger dies.</li></ul>"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48817",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48817/secret_avengers_2013_15?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-15/digital-comic/33017?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=33017&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/33017?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17547",
+          "name": "Secret Avengers (2013 - 2014)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-02-12T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2014-01-20T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-08-11T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-02-12T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/52fa84fddcc44",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/70/52fa84fddcc44",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/b0/52df15bc02462",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/b0/52df15974733b",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/60/52df154fc293c",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/1/40/528661575d4e9",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48817/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10172",
+              "name": "Vc Clayton Cowles",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+              "name": "Butch Guice",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12394",
+              "name": "Ales Kot",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2338",
+              "name": "Luke Ross",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+              "name": "Matthew Wilson",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48817/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011220",
+              "name": "Mockingbird"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+              "name": "S.H.I.E.L.D."
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48817/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109725",
+              "name": "cover from Secret Avengers (2013) #15",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109726",
+              "name": "story from Secret Avengers (2013) #15",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48817/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 48816,
+        "digitalId": 32829,
+        "title": "Secret Avengers (2013) #14",
+        "issueNumber": 14,
+        "variantDescription": "",
+        "description": "The traitor at the heart of the group is revealed. Mockingbird faces a crossroads that threatens to tear her apart. Travel to the past. See the future.",
+        "modified": "2014-01-09T12:55:23-0500",
+        "isbn": "",
+        "upc": "75960607911701411",
+        "diamondCode": "NOV130652",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The traitor at the heart of the group is revealed. Mockingbird faces a crossroads that threatens to tear her apart. Travel to the past. See the future."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/48816",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/48816/secret_avengers_2013_14?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Secret-Avengers-14/digital-comic/32829?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=32829&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/32829?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/17547",
+          "name": "Secret Avengers (2013 - 2014)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2014-01-15T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-12-29T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2014-07-14T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2014-01-15T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/52cee157a8bfa",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/40/52cee157a8bfa",
+            "extension": "jpg"
+          },
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/50/526164dbd7ec3",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48816/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2697",
+              "name": "Butch Guice",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11434",
+              "name": "Nick Spencer",
+              "role": "writer"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48816/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011220",
+              "name": "Mockingbird"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009552",
+              "name": "S.H.I.E.L.D."
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48816/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109723",
+              "name": "cover from Secret Avengers (2013) #14",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/109724",
+              "name": "story from Secret Avengers (2013) #14",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/48816/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 46168,
+        "digitalId": 28124,
+        "title": "Indestructible Hulk (2012) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "Hulk: Agent of S.H.I.E.L.D.! His first official mission: to take down the all-new Quintronic Man! Banner's hold over Maria Hill is revealed! And what and where is Bannertown, U.S.A.?",
+        "modified": "2014-07-13T14:02:17-0400",
+        "isbn": "",
+        "upc": "75960607908700311",
+        "diamondCode": "NOV120688",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "<ul><li>HULK&rsquo;S first official mission: take down the ALL-NEW QUINTRONIC MAN!!!</li><li>More on Banner&rsquo;s secret hold over S.H.I.E.L.D. Director Maria Hill!</li><li>What and where is&hellip;BANNERTOWN, U.S.A?</li></ul>"
+          },
+          {
+            "type": "issue_preview_text",
+            "language": "en-us",
+            "text": "Hulk: Agent of S.H.I.E.L.D.! His first official mission: to take down the all-new Quintronic Man! Banner's hold over Maria Hill is revealed! And what and where is Bannertown, U.S.A.?"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/46168",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/46168/indestructible_hulk_2012_3?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Indestructible-Hulk-3/digital-comic/28124?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=28124&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/28124?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16583",
+          "name": "Indestructible Hulk (2012 - 2014)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47470",
+            "name": "Indestructible Hulk (2012) #3 (2nd Printing Variant)"
+          },
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/46169",
+            "name": "Indestructible Hulk (2012) #3 (Bianchi Variant)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2013-01-16T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2013-01-02T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-07-15T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2013-01-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5b98052c1ae54",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/30/5b98052c1ae54",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46168/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8542",
+              "name": "Gerry Alanguilan",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/452",
+              "name": "Virtual Calligr",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11579",
+              "name": "Sunny Gho",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11808",
+              "name": "Jonathan Moisan",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/119",
+              "name": "Mark Waid",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/758",
+              "name": "Leinil Francis Yu",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 7
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46168/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009351",
+              "name": "Hulk"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011335",
+              "name": "Maria Hill"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46168/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/103896",
+              "name": "Indestructible Hulk (2012) #3",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/103897",
+              "name": "story from Indestructible Hulk (2012) #3",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/46168/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 43944,
+        "digitalId": 27961,
+        "title": "Iron Man (2012) #1",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Tony Stark&mdash;Iron Man: Technological visionary, wealthy playboy, unparalleled engineer, and armored Avenger. His greatest invention becomes his greatest mistake. Iron Man must act fast&hellip;and Tony Stark must build faster! The lethal techno virus Extremis is out in the wild and out for grabs to the highest bidder! It&rsquo;s up to Tony Stark to contain it and that means creating a new suit of armor&hellip;NOW!",
+        "modified": "2017-09-21T16:12:58-0400",
+        "isbn": "",
+        "upc": "75960607909400111",
+        "diamondCode": "SEP120550",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Tony Stark&mdash;Iron Man: Technological visionary, wealthy playboy, unparalleled engineer, and armored Avenger. His greatest invention becomes his greatest mistake. Iron Man must act fast&hellip;and Tony Stark must build faster! The lethal techno virus Extremis is out in the wild and out for grabs to the highest bidder! It&rsquo;s up to Tony Stark to contain it and that means creating a new suit of armor&hellip;NOW!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/43944",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/43944/iron_man_2012_1?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Iron-Man-1/digital-comic/27961?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=27961&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/27961?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/16593",
+          "name": "Iron Man (2012 - 2014)"
+        },
+        "variants": [
+          {
+            "resourceURI": "http://gateway.marvel.com/v1/public/comics/47357",
+            "name": "Iron Man (2012) #1 (2nd Printing)"
+          }
+        ],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2012-11-07T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2012-10-24T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-05-13T00:00:00-0400"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2012-11-07T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a79e06439b05",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/90/5a79e06439b05",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/5251",
+              "name": "Vc Joe Caramagna",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12239",
+              "name": "Guru Efx",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8901",
+              "name": "Kieron Gillen",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+              "name": "Greg Land",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/616",
+              "name": "Jay Leisten",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4600",
+              "name": "Mark Paniccia",
+              "role": "editor"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009368",
+              "name": "Iron Man"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009494",
+              "name": "Pepper Potts"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/99129",
+              "name": "Iron Man (2012) #1",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/99130",
+              "name": "story from Iron Man (2012) #1",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/43944/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36737,
+        "digitalId": 22522,
+        "title": "Marvel Adventures Super Heroes (2010) #16",
+        "issueNumber": 16,
+        "variantDescription": "",
+        "description": "Featuring Captain America! Spider-Man gets the thrill of a lifetime as he meets the living legend of World War II, Captain America! Webs spin and shields fly as Cap and everybody's favorite wall-crawler come face to face with the Gray Gargoyle and the nefarious schemes of AIM! Note: This issue reprints the contents of MARVEL AGE SPIDER-MAN TEAM-UP #2.",
+        "modified": "2012-11-14T13:14:31-0500",
+        "isbn": "",
+        "upc": "5960607126-01611",
+        "diamondCode": "",
+        "ean": "",
+        "issn": "1938-0380",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Featuring Captain America! Spider-Man gets the thrill of a lifetime as he meets the living legend of World War II, Captain America! Webs spin and shields fly as Cap and everybody's favorite wall-crawler come face to face with the Gray Gargoyle and the nefarious schemes of AIM! Note: This issue reprints the contents of MARVEL AGE SPIDER-MAN TEAM-UP #2."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36737",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36737/marvel_adventures_super_heroes_2010_16?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=22522&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/9718",
+          "name": "Marvel Adventures Super Heroes (2010 - 2012)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-07-13T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-06-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2013-01-02T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 2.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/60d395f1d99c5",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/60d395f1d99c5",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36737/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/682",
+              "name": "Todd Dezago",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/873",
+              "name": "Lou Kang",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11879",
+              "name": "Stephen Wacker",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36737/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011420",
+              "name": "Grey Gargoyle"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man (Peter Parker)"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36737/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81474",
+              "name": "Cover #81474",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81475",
+              "name": "Interior #81475",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36737/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36972,
+        "digitalId": 48444,
+        "title": "Taskmaster (Trade Paperback)",
+        "issueNumber": 1,
+        "variantDescription": "",
+        "description": "Taskmaster has trained henchmen for every terrorist organization and criminal cartel in the Marvel Universe. So when the rumor starts that he's turned traitor and now works for Steve Rogers, a billion-dollar bounty is put on his head. Now, every cadre of costumed fanatics - A.I.M., Hydra, Ultimatum, the Sons of the Serpent and more - is looking to collect. Taskmaster must fight hordes upon hordes of his psychopathic students while at the same time uncovering who framed him - which requires him figuring out who he really is! That's right, the man with the photographic reflexes has no memory of his true identity - and you'll learn the unexpected truth along with him! The action-packed secret origin comes courtesy of New York Times bestselling writer Fred Van Lente (AMAZING SPIDER-MAN) and acclaimed artist Jefte Paolo (DOCTOR VOODOO)! Collecting TASKMASTER #1-4 and material from AGE OF HEROES #3.",
+        "modified": "2011-04-29T09:38:27-0400",
+        "isbn": "978-0-7851-5260-6",
+        "upc": "5960615260-00111",
+        "diamondCode": "",
+        "ean": "9780785 152606 51499",
+        "issn": "",
+        "format": "Trade Paperback",
+        "pageCount": 112,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "Taskmaster has trained henchmen for every terrorist organization and criminal cartel in the Marvel Universe. So when the rumor starts that he's turned traitor and now works for Steve Rogers, a billion-dollar bounty is put on his head. Now, every cadre of costumed fanatics - A.I.M., Hydra, Ultimatum, the Sons of the Serpent and more - is looking to collect. Taskmaster must fight hordes upon hordes of his psychopathic students while at the same time uncovering who framed him - which requires him figuring out who he really is! That's right, the man with the photographic reflexes has no memory of his true identity - and you'll learn the unexpected truth along with him! The action-packed secret origin comes courtesy of New York Times bestselling writer Fred Van Lente (AMAZING SPIDER-MAN) and acclaimed artist Jefte Paolo (DOCTOR VOODOO)! Collecting TASKMASTER #1-4 and material from AGE OF HEROES #3."
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36972",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/collection/36972/taskmaster_trade_paperback?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=48444&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13213",
+          "name": "Taskmaster (2010)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-05-04T00:00:00-0400"
+          },
+          {
+            "type": "focDate",
+            "date": "2011-04-20T00:00:00-0400"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2023-04-28T17:18:55-0400"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 14.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4d5aa3967657b",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/d0/4d5aa3967657b",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36972/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8003",
+              "name": "Alex Garner",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8728",
+              "name": "Jefte Palo",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/7894",
+              "name": "Fred Van Lente",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 4
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36972/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009359",
+              "name": "Hydra"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009648",
+              "name": "Taskmaster"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009684",
+              "name": "Ultimatum"
+            }
+          ],
+          "returned": 4
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36972/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81983",
+              "name": "Taskmaster: Unthinkable TPB",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81984",
+              "name": "Interior #81984",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36972/events",
+          "items": [],
+          "returned": 0
+        }
+      },
+      {
+        "id": 36763,
+        "digitalId": 18813,
+        "title": "Ant-Man & the Wasp (2010) #3",
+        "issueNumber": 3,
+        "variantDescription": "",
+        "description": "",
+        "modified": "2011-01-03T13:19:55-0500",
+        "isbn": "",
+        "upc": "5960607434-00311",
+        "diamondCode": "NOV100533",
+        "ean": "",
+        "issn": "",
+        "format": "Comic",
+        "pageCount": 32,
+        "textObjects": [
+          {
+            "type": "issue_solicit_text",
+            "language": "en-us",
+            "text": "The first team up of Marvel's most unlikely duo may be their last! While his body lay dying, it's up to Ant-Man to save Bill Foster from a burning heaven! And The Wasp is on his own against Monica Rappacini, her elite AIM troops, and the half-sleepwalker villainess ANESTHESIA!  See how the smallest Avengers get out of their over-sized jam in the conclusion to this miniseries by writer/artist Tim Seeley (Hack/Slash)!"
+          }
+        ],
+        "resourceURI": "http://gateway.marvel.com/v1/public/comics/36763",
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://marvel.com/comics/issue/36763/ant-man_the_wasp_2010_3?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "purchase",
+            "url": "http://comicstore.marvel.com/Ant-Man-the-Wasp-3/digital-comic/18813?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "reader",
+            "url": "http://marvel.com/digitalcomics/view.htm?iid=18813&utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          },
+          {
+            "type": "inAppLink",
+            "url": "https://applink.marvel.com/issue/18813?utm_campaign=apiRef&utm_source=ef8c447d026e069015adee0cfc2d5e4d"
+          }
+        ],
+        "series": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/series/13082",
+          "name": "Ant-Man & the Wasp (2010 - 2011)"
+        },
+        "variants": [],
+        "collections": [],
+        "collectedIssues": [],
+        "dates": [
+          {
+            "type": "onsaleDate",
+            "date": "2011-01-05T00:00:00-0500"
+          },
+          {
+            "type": "focDate",
+            "date": "2010-12-12T00:00:00-0500"
+          },
+          {
+            "type": "unlimitedDate",
+            "date": "2011-12-05T00:00:00-0500"
+          },
+          {
+            "type": "digitalPurchaseDate",
+            "date": "2011-02-16T00:00:00-0500"
+          }
+        ],
+        "prices": [
+          {
+            "type": "printPrice",
+            "price": 3.99
+          },
+          {
+            "type": "digitalPurchasePrice",
+            "price": 1.99
+          }
+        ],
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/56ddd896e1ddb",
+          "extension": "jpg"
+        },
+        "images": [
+          {
+            "path": "http://i.annihil.us/u/prod/marvel/i/mg/f/f0/56ddd896e1ddb",
+            "extension": "jpg"
+          }
+        ],
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36763/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13251",
+              "name": "Salva Espin",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9550",
+              "name": "Tim Seeley",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan D. White",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36763/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009144",
+              "name": "A.I.M."
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010802",
+              "name": "Ant-Man (Eric O'Grady)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011490",
+              "name": "Hank Pym"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36763/stories",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81526",
+              "name": "Ant-Man & the Wasp (2010) #3 cover",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/stories/81527",
+              "name": "Ant-Man & the Wasp (2010) #3 interior",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/comics/36763/events",
+          "items": [],
+          "returned": 0
+        }
+      }
+    ]
+  }
+}
