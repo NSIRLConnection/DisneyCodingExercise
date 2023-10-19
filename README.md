@@ -1,20 +1,24 @@
 # DisneyCodingExercise
 
 Task:
+
 • Use Marvel’s Developer API
 <developer.marvel.com>
+
 • Create a layout for characters.
-• When selecting a character display a list
-of comics for that character.
+
+• When selecting a character display a list of comics for that character.
 
 • Implement at least one Unit test
-• Upload code to Github/Gitlab or
-something equivalent and provide link and
-a README file
+
+• Upload code to Github/Gitlab or something equivalent and provide link and a README file
 
 Requirements
+
 • No third party frameworks
+
 • Use both Combine and Async / Await
+
 • UI should be in SwiftUI
 
 Project requirements:
