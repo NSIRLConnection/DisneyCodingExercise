@@ -1,5 +1,8 @@
 # DisneyCodingExercise
 
+Setup:
+In MarvelServiceProvider.swift, add your public and private key from https://developer.marvel.com/account, I thought it'd be a bad idea to commit and push my keys to a public repo.
+
 Task:
 
 • Use Marvel’s Developer API
@@ -23,9 +26,6 @@ Requirements
 
 Project requirements:
 Xcode 14.1
-
-Setup:
-In MarvelServiceProvider.swift, add your public and private key from https://developer.marvel.com/account, I thought it'd be a bad idea to commit and push my keys to a public repo.
 
 Notes:
 Some code would normally not be grouped in the same file (e.g. models, request types, unit tests), I didn't separate them because I figured it would be a headache to look through that many files for a coding exercise.
