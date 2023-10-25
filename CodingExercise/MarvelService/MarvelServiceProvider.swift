@@ -18,6 +18,7 @@ final class MarvelServiceProvider: MarvelServiceProviding {
     
     private let publicKey: String
     private let privateKey: String
+    let isInitialized: Bool // flag for displaying "Please add API keys to MarvelServiceProvider.swift!"
     
     //FIXME: Normally I would pass in some sort of configuration for base url, public key, private key, I skipped it and put it directly in here since there's only one environment we're working with
     init(
@@ -26,7 +27,9 @@ final class MarvelServiceProvider: MarvelServiceProviding {
         self.publicKey = publicKey
         self.privateKey = privateKey
             if publicKey == "" || privateKey == "" {
-                fatalError("Add the public and private key from https://developer.marvel.com/account first")
+                isInitialized = false
+            } else {
+                isInitialized = true
             }
     }
     

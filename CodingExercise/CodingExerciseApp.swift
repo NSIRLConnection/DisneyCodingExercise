@@ -11,7 +11,18 @@ import SwiftUI
 struct CodingExerciseApp: App {
     var body: some Scene {
         WindowGroup {
-            CharacterListView()
+            if !MarvelServiceProvider.sharedInstance.isInitialized {
+                PleaseAddAPIKeysView()
+            } else {
+                CharacterListView()
+            }
         }
+    }
+}
+
+struct PleaseAddAPIKeysView: View {
+    
+    var body: some View {
+        Text("Please add API keys to MarvelServiceProvider.swift!")
     }
 }
