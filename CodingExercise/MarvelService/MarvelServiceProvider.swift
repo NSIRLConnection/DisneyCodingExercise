@@ -26,7 +26,7 @@ final class MarvelServiceProvider: MarvelServiceProviding {
         privateKey: String = "") {
         self.publicKey = publicKey
         self.privateKey = privateKey
-            if publicKey == "" || privateKey == "" {
+            if publicKey.isEmpty || privateKey.isEmpty {
                 isInitialized = false
             } else {
                 isInitialized = true
